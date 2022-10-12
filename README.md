@@ -5,7 +5,6 @@
 * The MathUtil.java class -a replication version of the famous JDK's util class - Math
 * Ant build script 
 * Unit Test script using JUnit framework
-* 
 
 
 
